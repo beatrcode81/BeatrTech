@@ -1,4 +1,4 @@
-# BeatrTech
+# Beatriz Oliveira
 
 🎓 **4º semestre de Engenharia de Software** | 💡 **Pesquisadora Voluntária em Iniciação Científica (PVIC)**
 
